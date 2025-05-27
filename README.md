@@ -57,13 +57,13 @@ else:
 ## Supported Email Services
 The EmailReader currently supports the following email services out of the box:
 
-inbox.lv
-rambler.ru
-gmail.com
-firstmail.ru
-firstmail.fun
-firstmail.site
-gazeta.pl
-outlook.com
-office365.com
-hotmail.com
+    - inbox.lv
+    - rambler.ru
+    - gmail.com
+    - firstmail.ru
+    - firstmail.fun
+    - firstmail.site
+    - gazeta.pl
+    - outlook.com
+    - office365.com
+    - hotmail.com
